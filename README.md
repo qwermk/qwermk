@@ -57,12 +57,12 @@ I’m always open to collaborating on impactful data-driven projects.
 ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
+<!--
 ---
 
 ## GitHub Stats 📊
 
-<!-- <div>
+ <div>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qwermk&show_icons=true&hide_border=true&include_all_commits=true" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwermk&layout=compact&hide_border=true&langs_count=8" />
 </div> -->
