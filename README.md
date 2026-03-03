@@ -62,10 +62,10 @@ I’m always open to collaborating on impactful data-driven projects.
 
 ## GitHub Stats 📊
 
-<div>
+<!-- <div>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qwermk&show_icons=true&hide_border=true&include_all_commits=true" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwermk&layout=compact&hide_border=true&langs_count=8" />
-</div>
+</div> -->
 
 ---
 
